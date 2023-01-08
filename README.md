@@ -10,11 +10,11 @@
 
 
 <div class="container" align="center">
-        <img alt="Amer streak" width="430" src="https://github-readme-streak-stats.herokuapp.com?user=TheBarnyOfBarnim&theme=dark&hide_border=true"/>
-        <img alt="Amer top langs" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBarnyOfBarnim&hide=scss,css,javascript,html&layout=compact&theme=dark">
+        <img alt="" width="430" src="https://github-readme-streak-stats.herokuapp.com?user=TheBarnyOfBarnim&theme=dark&hide_border=true"/>
+        <img alt="" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBarnyOfBarnim&hide=scss,css,javascript,html&layout=compact&theme=dark">
 </div>
 
-[![Endric's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TheBarnyOfBarnim&theme=react-dark)](https://github.com/amerkoleci/github-readme-activity-graph)
+[![Endric's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TheBarnyOfBarnim&theme=react-dark)](https://github.com/TheBarnyOfBarnim/github-readme-activity-graph)
 
 
 - :heart: I love open source and work on personal projects whether possible.
