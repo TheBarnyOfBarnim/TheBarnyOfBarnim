@@ -18,7 +18,6 @@
 
 
 - :heart: I love open source and work on personal projects whether possible.
-- :star2: I like to write game engine and web server code
 - 💬 If you have any question feel free to contact me and I will gladly reply.
 - 🤔 If you like to join my open source projects feel free to do so by submitting PR or opening issues.
 
@@ -26,8 +25,7 @@ If you are curious, I suggest you check out the following repositories:
 
 - [Space.NET](https://github.com/TheBarnyOfBarnim/Space.NET): Cross-platform .NET WebServer with "PHP like" C# scripts
 
-
-- 🔭 I’m currently working on Space.NET
-- 🌱 I’m currently learning C#, (micro-)python, javascript
-- 👯 I’m looking to collaborate on Space.NET
-- 📫 How to reach me: programming@e-barnekow.de
+<br>
+🔭 I’m currently working on a cross-platform GameEngine/Software SDK
+👯 I’m looking to collaborate on Space.NET
+📫 How to reach me: programming@e-barnekow.de
