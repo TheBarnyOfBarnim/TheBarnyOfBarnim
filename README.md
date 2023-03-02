@@ -26,6 +26,6 @@ If you are curious, I suggest you check out the following repositories:
 - [Space.NET](https://github.com/TheBarnyOfBarnim/Space.NET): Cross-platform .NET WebServer with "PHP like" C# scripts
 
 <br>
-🔭 I’m currently working on a cross-platform GameEngine/Software SDK
-👯 I’m looking to collaborate on Space.NET
+🔭 I’m currently working on a cross-platform GameEngine/Software SDK<br>
+👯 I’m looking to collaborate on Space.NET<br>
 📫 How to reach me: programming@e-barnekow.de
