@@ -11,7 +11,7 @@
 
 <div class="container" align="center">
         <img alt="" width="430" src="https://github-readme-streak-stats.herokuapp.com?user=TheBarnyOfBarnim&theme=dark&hide_border=true"/>
-        <img alt="" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBarnyOfBarnim&hide=scss,css,javascript,html&layout=compact&theme=dark">
+        <img alt="" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBarnyOfBarnim&layout=compact&theme=dark">
 </div>
 
 [![Endric's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheBarnyOfBarnim&theme=react-dark)](https://github.com/TheBarnyOfBarnim/github-readme-activity-graph)
