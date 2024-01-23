@@ -26,4 +26,3 @@ If you are curious, I suggest you check out the following repositories:
 
 <br>
 🔭 I’m currently working on some secret projects<br>
-👯 I’m looking to collaborate on Space.NET<br>
