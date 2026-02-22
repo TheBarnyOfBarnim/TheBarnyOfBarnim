@@ -81,5 +81,5 @@ ___
 <br/>
 
 <a href="https://honkai-star-rail.fandom.com/wiki/Firefly">**Firefly** from *Honkai: Star Rail*</a> is my wife <p style="font-size: 6pt;">
-<img width="100px" src="https://i.pinimg.com/originals/c4/dd/de/c4ddde9b878e66a9cc468061220e40a5.gif" />(Yeah i know she’s fictional!)
+<img width="100px" src="img/fireflyCute.gif" />(Yeah i know she’s fictional!)
 </p>
