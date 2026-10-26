@@ -72,10 +72,7 @@ A personal GitHub organization dedicated to:
 ## 🔭 Currently Exploring 
 - Native UI framework design in C#
   - Vulkan rendering pipelines
-- [Migradoc](https://docs.pdfsharp.net/)
-
-## 📊 GitHub Statistics
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheBarnyOfBarnim&theme=github-compact" />
+- ![Static Badge](https://img.shields.io/badge/DeepSeek-black?logo=deepseek)
 
 ___
 <br/>
