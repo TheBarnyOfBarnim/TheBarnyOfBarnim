@@ -1,8 +1,7 @@
 <pre><h1 align="center">
   <img src="img/giphy.gif" width="28"> <b>Hey! I'm TheBarnyOfBarnim <img src="img/hsr-honkai-star-rail.gif" width="28">
   a.k.a. Endric Barnekow</b></h1><p align="center">
-   <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,windows,git,mysql,docker,debian&size=36&perline=4" />
-   <img width="47" src="img/icons8-lunacy-144.png" /></p>
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,visualstudio,windows,git,mariadb,docker,debian,blazor,lunacy,blender,deepseek&perline=4" />
 </pre>
 > If it can be made with C#, it will be made with C#.
 
