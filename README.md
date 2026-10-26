@@ -22,8 +22,7 @@ A personal GitHub organization dedicated to:
 
 ### Software Projects (Flux Systems)  
 - **FluxCoreLibrary** – The C# Core Library of FluxSystems
-- **WebSharp** – A complete C# HTTP-Server without interpreted scripts for security
-- **WebSharpBlazorWASMTemplate** – FluxSystems.WebSharp + Blazor (WASM)
+- **~~WebSharp~~ FluxSystems/APIServer** – A complete C# HTTP-Server without interpreted scripts for security
 - **FluxForge** – FluxForge - A Powerful and Versatile C# Platform Independent Software Framework and Game Engine
 - **FluxBuildSystem** – FluxBuildSystem - A Powerful and Versatile Build and Versioning System for our Software
 
@@ -34,7 +33,7 @@ A personal GitHub organization dedicated to:
 <img src="https://skillicons.dev/icons?i=cs,dotnet,debian,docker&size=36" />
 
 - C# / .NET  
-- Custom Web Server (**WebSharp**) - REST API 
+- Custom Web Server (**~~WebSharp~~ FluxSystems/APIServer**) - REST API  + blazor WASM integration
 - Serial / embedded communication  
 - Infrastructure on raw Debian Linux and Docker
 - Database
